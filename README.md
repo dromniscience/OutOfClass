@@ -13,3 +13,6 @@ Python scripts which robustly convert a utf-8 string to base64 and vice versa.
 
 ### bf
 A BrainFuck interpreter. Sample Bf codes are provided in the comment. For usage, see helper info.
+
+### linprog
+A LP solver which solves one given in standard form (maximize objective & constraint are given in <= form). Implemented in C++.
